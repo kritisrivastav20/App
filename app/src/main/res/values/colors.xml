@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#76C35D</color>
+    <color name="colorPrimaryDark">#20639B</color>
+    <color name="colorAccent">#ED553B</color>
+    <color name="colorSignup">#81C2E2</color>
+    <color name="StartActivity" >#5E5959</color>
+
+</resources>

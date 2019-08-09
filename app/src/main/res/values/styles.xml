@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="SignUp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorSignup</item>
+        <item name="colorPrimaryDark">@color/colorSignup</item>
+        <item name="colorAccent">@color/colorSignup</item>
+    </style>
+
+    <style name="Start" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/StartActivity</item>
+        <item name="colorPrimaryDark">@color/StartActivity</item>
+        <item name="colorAccent">@color/StartActivity</item>
+    </style>
+
+</resources>

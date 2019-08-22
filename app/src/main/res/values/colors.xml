@@ -5,5 +5,6 @@
     <color name="colorAccent">#ED553B</color>
     <color name="colorSignup">#81C2E2</color>
     <color name="StartActivity" >#5E5959</color>
+    <color name="white" >#FFFFFF</color>
 
 </resources>
